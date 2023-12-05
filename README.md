@@ -1,5 +1,27 @@
 # Cluster_Swarm
 
+## Compétences développées
+
+### Optimisation des applications informatiques
+
+- Mon but est de rendre disponible notre application le plus possible, tout en répartissant les charges sur les serveurs.
+- Je veux répartir certains services sur certains serveurs, afin de bien visualiser d'où vient un problème avec celui-ci.
+- Il est préférable de choisir quel type de serveur utiliser selon le service, afin de réduire l'impact environnemental.
+
+### Administration des systèmes informatiques communicants
+
+- Mon but est de déployer en production mon application.
+- Au fur et à mesure de la mise en place de mon réseau de machines, j'ai amélioré mon infrastructure.
+- J'ai mis en place des reverse-proxy afin d'élever la sécurité de mon infrastructure réseau.
+
+### Gestion des données de l'information
+
+- J'ai mis en place un service de base de donnée afin de stocker et gérer les données de mon application web.
+- La connexion à la base de donnée ne peux se faire qu'en ayant les bons identifiants.
+- Mise en place de logiciels de monitoring afin de visualiser les différentes interractions avec notre application.
+
+
+
 **Création des machines :** 
 
 Pour créer mon manager et mes 2 nodes, je clone ma VM de base, en m’assurant de choisir l’option de génération de nouvelles adresses MAC pour toutes les interfaces réseau. 
