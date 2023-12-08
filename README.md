@@ -1,5 +1,14 @@
 # Cluster_Swarm
 
+## Contexte
+
+Vous pouvez retrouver ici les étapes pouvant vous permettre de mettre en place un environnement de production, afin de déployer une application web. De noombreuses technologies ont été utilisées,tel que :
+
+- Docker Swarm pour répartir des services sur plusieurs serveurs.
+- Des reverse-proxy pour améliorer la sécurité, la performance et la fiabilité des rquêtes client/serveur.
+- Des logiciels de Monitoring, tel que Grafana, afin de visualiser différentes données de notre application en production.
+- Portainer permettant de faciliter la gestion et la visualisation de nos conteneurs.
+  
 ## Compétences développées
 
 ### Optimisation des applications informatiques
@@ -20,7 +29,7 @@
 - La connexion à la base de donnée ne peux se faire qu'en ayant les bons identifiants.
 - Mise en place de logiciels de monitoring afin de visualiser les différentes interractions avec notre application.
 
-
+## Étapes réalisées
 
 **Création des machines :** 
 
